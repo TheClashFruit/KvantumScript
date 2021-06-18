@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheClashFruit/KvantumScript/issues"
   },
-  "homepage": "https://github.com/TheClashFruit/KvantumScript#readme"
+  "homepage": "https://github.com/TheClashFruit/KvantumScript#readme",
+  "dependencies": {
+    "ohm-js": "^15.5.0"
+  }
 }
